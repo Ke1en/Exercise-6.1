@@ -45,7 +45,6 @@ public class NumberUtils {
 
     public void sort(int threshold) {
         int newRows = 0;
-        int j = 0;
 
         for (int i = 0; i < randomArray.length; i++) {
             if (threshold < randomArray[i])
@@ -58,7 +57,7 @@ public class NumberUtils {
         }
         int[] filteredArray = new int[newRows];
 
-        for (int i = 0; i < randomArray.length; i++) {
+        for (int i = 0, j = 0; i < randomArray.length; i++) {
             if (threshold < randomArray[i]) {
                 filteredArray[j] = randomArray[i];
                 j++;

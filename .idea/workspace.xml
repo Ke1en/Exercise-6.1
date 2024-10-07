@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db028c39-2780-46e5-8561-809a6a5b6b80" name="Changes" comment="Решена задачка 0 (без перегрузки метода filter)">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="db028c39-2780-46e5-8561-809a6a5b6b80" name="Changes" comment="Убран лишний пробел в конце файла">
       <change beforePath="$PROJECT_DIR$/src/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ke1en"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Ke1en/Exercise-6.1.git",
@@ -64,11 +69,38 @@
       <option name="project" value="LOCAL" />
       <updated>1728323834914</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Решена задачка 0">
+      <option name="closed" value="true" />
+      <created>1728323888751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728323888751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Фикс пробелов">
+      <option name="closed" value="true" />
+      <created>1728323956152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728323956152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Убран лишний пробел в конце файла">
+      <option name="closed" value="true" />
+      <created>1728324373794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728324373794</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Решена задачка 0 (без перегрузки метода filter)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена задачка 0 (без перегрузки метода filter)" />
+    <MESSAGE value="Решена задачка 0" />
+    <MESSAGE value="Фикс пробелов" />
+    <MESSAGE value="Убран лишний пробел в конце файла" />
+    <option name="LAST_COMMIT_MESSAGE" value="Убран лишний пробел в конце файла" />
   </component>
 </project>
