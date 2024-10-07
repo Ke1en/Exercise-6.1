@@ -43,7 +43,7 @@ public class NumberUtils {
         }
     }
 
-    public void filter(int threshold) {
+    public void sort(int threshold) {
         int newRows = 0;
         int j = 0;
 

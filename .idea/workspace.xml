@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db028c39-2780-46e5-8561-809a6a5b6b80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 6.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
+    <list default="true" id="db028c39-2780-46e5-8561-809a6a5b6b80" name="Changes" comment="Решена задачка 0 (без перегрузки метода filter)">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ke1en/Exercise-6.1.git",
+    "accountId": "e5ea934d-4366-49ac-8420-6a92cfdc2640"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -56,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728320497646</updated>
     </task>
+    <task id="LOCAL-00001" summary="Решена задачка 0 (без перегрузки метода filter)">
+      <option name="closed" value="true" />
+      <created>1728323834914</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728323834914</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решена задачка 0 (без перегрузки метода filter)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена задачка 0 (без перегрузки метода filter)" />
   </component>
 </project>

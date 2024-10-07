@@ -20,6 +20,6 @@ public class Main {
         numberUtils.printArray();
         numberUtils.sort();
         numberUtils.printArray();
-        numberUtils.filter(50);
+        numberUtils.sort(50);
     }
 }
