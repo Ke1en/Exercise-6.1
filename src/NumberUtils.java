@@ -9,14 +9,14 @@ public class NumberUtils {
 
         randomArray = new int[rows];
 
-        for(int i = 0; i < randomArray.length; i++) {
+        for (int i = 0; i < randomArray.length; i++) {
             randomArray[i] = random.nextInt(100);
         }
     }
 
     public void printArray() {
         System.out.println("Our array: ");
-        for(int i = 0; i < randomArray.length; i++) {
+        for (int i = 0; i < randomArray.length; i++) {
             System.out.print(randomArray[i] + " ");
         }
         System.out.println();
@@ -24,7 +24,7 @@ public class NumberUtils {
 
     public void printArray(int[] array) {
         System.out.println("Our filtered array: ");
-        for(int i = 0; i < array.length; i++) {
+        for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + " ");
         }
         System.out.println();
